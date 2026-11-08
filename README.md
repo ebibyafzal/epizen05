@@ -18,4 +18,4 @@ Usmanova G, et al. The role of digital clinical decision support tool in improvi
 
 Get in touch
 
-📧 mohammedafzal1108@gmail.com · linkedin.com/in/mohammed-afzal-29761ba1
+📧 mohammedafzal1108@gmail.com · https://linkedin.com/in/mohammed-afzal-29761ba1
