@@ -11,7 +11,7 @@ Tools
 
 R · tidyverse · data.table · ggplot2 · sf · terra · metafor · survival · dlnm · Quarto · R Markdown · Git · QGIS
 
-##Selected publications##
+#Selected publications#
 
 Vaughan AM†, Afzal M†, et al. Continued circulation of mpox: an epidemiological and phylogenetic assessment, European Region, 2023 to 2024. Euro Surveillance, 2024. DOI
 Usmanova G, et al. The role of digital clinical decision support tool in improving quality of intrapartum and postpartum care. BMC Pregnancy and Childbirth, 2021. DOI
